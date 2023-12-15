@@ -8,8 +8,8 @@ export interface ServicoInterface {
     horas_quarto: number;
     horas_quintal: number;
     horas_sala: number;
-    porcentagem_comissao: number;
-    qtd_horas: number;
+    porcentagem: number;
+    quantidade_horas: number;
     valor_banheiro: number;
     valor_cozinha: number;
     valor_minimo: number;

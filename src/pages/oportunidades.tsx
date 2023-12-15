@@ -221,7 +221,7 @@ const Oportunidades: React.FC = () => {
 
                     <Divider />
 
-                    {oportunidadeSelecionada?.avaliacoes_cliente.length > 0 && (
+                    {oportunidadeSelecionada?.avaliacoes_cliente?.length > 0 && (
                         <>
                             <Typography
                                 sx={{
@@ -233,7 +233,7 @@ const Oportunidades: React.FC = () => {
                                 Últimas avaliações do cliente
                             </Typography>
 
-                            {oportunidadeSelecionada?.avaliacoes_cliente.map(
+                            {oportunidadeSelecionada?.avaliacoes_cliente?.map(
                                 (item, index) => (
                                     <UserInformation
                                         key={index}

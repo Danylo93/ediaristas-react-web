@@ -56,7 +56,7 @@ const Contratacao: React.FC = () => {
         BrowserService.scrollToTop();
     }, [step]);
 
-    if (!servicos || servicos.length < 1) {
+    if (!servicos || servicos.length < 0) {
         return (
             <Container sx={{ textAlign: 'center', my: 10 }}>
                 <CircularProgress />
