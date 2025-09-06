@@ -53,7 +53,7 @@ const HeaderDesktop: React.FC<HeaderProps> = (props) => {
                 <Link href={'/'}>
                     <HeaderLogo
                         src={'/img/logos/logo.svg'}
-                        alt={'e-diaristas'}
+                        alt={'freelas'}
                     />
                 </Link>
 
@@ -138,7 +138,7 @@ const HeaderMobile: React.FC<HeaderProps> = (props) => {
                 <Link href={'/'}>
                     <HeaderLogo
                         src={'/img/logos/logo.svg'}
-                        alt={'e-diaristas'}
+                        alt={'freelas'}
                     />
                 </Link>
 

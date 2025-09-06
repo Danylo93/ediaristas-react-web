@@ -41,7 +41,7 @@ function App({ Component, pageProps }: AppProps) {
         <>
             <Head>
                 <title>
-                    e-diaristas {pageProps.title && ` -  ${pageProps.title}`}
+                    Freelas {pageProps.title && ` -  ${pageProps.title}`}
                 </title>
             </Head>
             <ThemeProvider theme={theme}>

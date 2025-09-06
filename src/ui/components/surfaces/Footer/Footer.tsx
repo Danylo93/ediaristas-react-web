@@ -40,7 +40,7 @@ const Footer = () => {
                                 href={'/'}
                                 mui={{ color: 'inherit', variant: 'body2' }}
                             >
-                                Por que usar o E-Diaristas?
+                                Por que usar o Freelas?
                             </Link>
                         </FooterListItem>
                         <FooterListItem>
@@ -57,7 +57,7 @@ const Footer = () => {
                 <Box sx={{ maxWidth: '400px' }}>
                     <FooterTitle>Quem somos</FooterTitle>
                     <Typography variant={'body2'} sx={{ mt: 2 }}>
-                        E-Diaristas te ajuda a encontrar um profissional
+                        Freelas te ajuda a encontrar um profissional
                         perfeito para realizar a limpeza da sua casa. Garantimos
                         o(a) melhor profissional com total segurança e
                         praticidade! São milhares de clientes satisfeitos por

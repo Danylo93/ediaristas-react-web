@@ -47,7 +47,7 @@ const Advantages = () => {
     return (
         <GradientBackground>
             <Container>
-                <SectionTitle>Por que usar o E-diaristas?</SectionTitle>
+                <SectionTitle>Por que usar o Freelas?</SectionTitle>
 
                 <ListStyled>
                     {advantagesList.map((item, index) => (

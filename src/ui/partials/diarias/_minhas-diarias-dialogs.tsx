@@ -157,7 +157,7 @@ export const ConfirmDialog: React.FC<DialogProps> = (props) => {
                 o serviço foi realizado em sua residência e autoriza a
                 plataforma a fazer o repasse do valor para o profissional. Caso
                 você tenha algum problema, pode entrar em contato com a nossa
-                equipe pelo e-mail sac@e-diaristas.com.br
+                equipe pelo e-mail sac@freelas.com.br
             </Typography>
         </Dialog>
     );
